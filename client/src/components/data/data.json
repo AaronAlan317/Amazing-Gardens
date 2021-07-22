@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "name": "Plant Inventory" ,
+        "desc": "Track and manage your plant information",
+        "url" :"/PlantInventory",
+        "btnText":"Track"
+    },
+    {
+        "id":2,
+        "name": "Planting Guide" ,
+        "desc": "Find out what plant grows best in your area",
+        "url" :"/PlantByZip",
+        "btnText":"Grow"
+    }
+ 
+
+]

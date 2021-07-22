@@ -1,0 +1,58 @@
+.btn-primary{
+    border: none;
+    border-radius: 5px;
+    padding: .6rem;
+    background: rgb(230,110,171);
+    background: linear-gradient(90deg, rgba(230,110,171,0.9808298319327731) 20%, rgba(198,98,226,1) 80%);
+  }
+  
+  a{
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px ;
+  }
+  
+  a:hover {
+  text-decoration: none;
+  background: rgb(230,110,171)  !important;
+  
+  }
+  
+  .card{
+    border: none !important;
+    border-radius: 1.60rem  !important;
+    margin: 1.60rem !important;
+  }
+  .card-body {
+    padding: 1.60rem !important;
+  }
+  .card-title {
+    margin-bottom: 1.60rem !important;
+
+  }
+  
+  p {
+    margin-top: 4px !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  .card-columns{
+    margin: 1.60rem auto !important;
+    padding: 1.60rem !important;
+    width: 50%;
+    /* margin: auto; */
+
+  }
+  .appNameTop{
+    margin: 1.6rem;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
+
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+    }
