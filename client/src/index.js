@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { reducers } from './reducers';
 import App from './App';
 import './index.css';
+import axios from "axios";
 
 const store = createStore(reducers, compose(applyMiddleware(thunk)));
 
